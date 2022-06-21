@@ -1,0 +1,17 @@
+main {
+  margin: 80px auto;
+  background-color: rgba(255, 255, 255, 0.5);
+  width: 450px;
+  height: fit-content;
+  border-radius: 10px;
+  padding-bottom: 3px;
+}
+
+#dialogo {
+  width: 98%;
+  height: 100px;
+  text-align: right;
+  box-sizing: border-box;
+  font-size: 40px;
+  padding: 30px 5px;
+}
